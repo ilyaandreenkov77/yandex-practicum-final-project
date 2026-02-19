@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+.env
+*.pyc
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.DS_Store
+
+# Данные (если использовали локальные файлы)
+*.csv
+*.xlsx
+*.log
+data/
+*.zip
+
+# IDE
+.vscode/
+.idea/
